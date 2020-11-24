@@ -8,3 +8,20 @@ D:\Programas\Grupos Aleatorios\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csp
 D:\Programas\Grupos Aleatorios\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csproj.CoreCompileInputs.cache
 D:\Programas\Grupos Aleatorios\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.exe
 D:\Programas\Grupos Aleatorios\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.pdb
+D:\FindeCurso\Grupos Aleatorios\bin\Debug\Grupos Aleatorios.exe.config
+D:\FindeCurso\Grupos Aleatorios\bin\Debug\Grupos Aleatorios.exe
+D:\FindeCurso\Grupos Aleatorios\bin\Debug\Grupos Aleatorios.pdb
+D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csprojAssemblyReference.cache
+D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos_Aleatorios.Properties.Resources.resources
+D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csproj.GenerateResource.cache
+D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csproj.CoreCompileInputs.cache
+D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.exe
+D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.pdb
+D:\FindeCurso\Grupos Aleatorios\bin\Debug\nunit.framework.dll
+D:\FindeCurso\Grupos Aleatorios\bin\Debug\nunit.framework.pdb
+D:\FindeCurso\Grupos Aleatorios\bin\Debug\nunit.framework.xml
+D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos_Aleatorios.frmPrincipal.resources
+D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos_Aleatorios.frmResultado.resources
+D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csproj.CopyComplete
+D:\FindeCurso\Grupos Aleatorios\bin\Debug\GruposAleatoriosLibreria.dll
+D:\FindeCurso\Grupos Aleatorios\bin\Debug\GruposAleatoriosLibreria.pdb
