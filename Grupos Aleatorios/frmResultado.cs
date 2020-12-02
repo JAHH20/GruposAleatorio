@@ -14,11 +14,15 @@ namespace Grupos_Aleatorios
     public partial class frmResultado : Form
     {
 
+        /// <summary>Cargar cada control del formulario "botones, textbox,labe, listbox"  <see cref="frmResultado" /> class.</summary>
         public frmResultado()
         {
             InitializeComponent();
         }
 
+        /// <summary>boton btnSalir_Click cierra el formulario .</summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="EventArgs" /> instance containing the event data.</param>
         private void btnSalir_Click(object sender, EventArgs e)
         {
 
@@ -30,6 +34,9 @@ namespace Grupos_Aleatorios
 
         }
 
+        /// <summary>boton button1_Click para expotar al excel .</summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="EventArgs" /> instance containing the event data.</param>
         private void button1_Click(object sender, EventArgs e)
         {
             Microsoft.Office.Interop.Excel.Application xla = new Microsoft.Office.Interop.Excel.Application();
@@ -47,7 +54,7 @@ namespace Grupos_Aleatorios
 
             int j = 1;
             int cantgrupos = 0;
-           
+           //bucle que genera los encabezados de cada grupo.
             foreach (ListViewGroup  group in listView1.Groups)
 
             {
@@ -58,7 +65,7 @@ namespace Grupos_Aleatorios
 
 
                 i++;
-                //***********
+                //bucle que genere los integrantes a su grupo respectivo.
                 foreach (ListViewItem comp in listView1.Groups[cantgrupos].Items)
 
                 {
@@ -76,9 +83,11 @@ namespace Grupos_Aleatorios
                 j++;
                 i = 1;
             }
-
+            //constructor de numero a excel.
             numeroExcel numero = new numeroExcel();
-
+            //para autoajustar la columna al ancho del contenido.
+            //para que el encabezado tenga estilo negrita
+            //para el color de la celda sea Silver
             ws.Columns.AutoFit();
             ws.Range["A1:"+numero.GetExcelColumnName(cantgrupos)+"1"].Font.Bold = true;
             ws.Range["A1:" + numero.GetExcelColumnName(cantgrupos) + "1"].Interior.Color = System.Drawing.ColorTranslator.ToOle(System.Drawing.Color.Silver);

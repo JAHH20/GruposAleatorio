@@ -55,6 +55,16 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Grupos Aleatorios\Grupos Aleatorios.csproj">
+      <Project>{7ff7e8de-f52b-4cb3-bd63-5e0725390d78}</Project>
+      <Name>Grupos Aleatorios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GruposAleatoriosLibreria\GruposAleatoriosLibreria.csproj">
+      <Project>{35efcc47-a063-4b19-b78d-3dd5bf04ce91}</Project>
+      <Name>GruposAleatoriosLibreria</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

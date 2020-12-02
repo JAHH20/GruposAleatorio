@@ -25,3 +25,20 @@ D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos_Aleatorios.frmResultado.resourc
 D:\FindeCurso\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csproj.CopyComplete
 D:\FindeCurso\Grupos Aleatorios\bin\Debug\GruposAleatoriosLibreria.dll
 D:\FindeCurso\Grupos Aleatorios\bin\Debug\GruposAleatoriosLibreria.pdb
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\bin\Debug\Grupos Aleatorios.exe.config
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\bin\Debug\Grupos Aleatorios.exe
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\bin\Debug\Grupos Aleatorios.pdb
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\bin\Debug\GruposAleatoriosLibreria.dll
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\bin\Debug\nunit.framework.dll
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\bin\Debug\GruposAleatoriosLibreria.pdb
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\bin\Debug\nunit.framework.pdb
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\bin\Debug\nunit.framework.xml
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csprojAssemblyReference.cache
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\obj\Debug\Grupos_Aleatorios.frmPrincipal.resources
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\obj\Debug\Grupos_Aleatorios.frmResultado.resources
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\obj\Debug\Grupos_Aleatorios.Properties.Resources.resources
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csproj.GenerateResource.cache
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.csproj.CopyComplete
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.exe
+C:\Users\Stephen\source\repos\aleatorios\Grupos Aleatorios\obj\Debug\Grupos Aleatorios.pdb
